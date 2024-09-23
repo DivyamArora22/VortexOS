@@ -1,5 +1,7 @@
 # VortexOS
 
+## [Demo](https://paizhang.info/os/popup.html)
+
 ## Project Overview
 Developed a multi-tasking operating system as part of a team project. The project involved booting into protected mode, setting up essential components such as the GDT, IDT, and basic paging support. Key functionalities included initializing devices (keyboard, RTC), supporting system calls, creating a terminal driver, parsing a read-only file system, and executing user-level code.
 
